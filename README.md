@@ -1,6 +1,6 @@
 # МИФИ ML 2024/2025
 
-Данные материалы подготовлены для годового курса машинного обучения в НИЯУ МИФИ. \
+Данные материалы подготовлены для годового курса машинного обучения в НИТУ МИСИС. \
 Цель курса - познакомить с инструментами для работы с машимнным обучением, нейронными сетями, а также с самими моделями, применительно к реальным задачам. 
 
 Авторы курса: Егоров Алексей и Хасанова Аделя
@@ -9,10 +9,10 @@
 
 Формы контроля: коллоквиум по итогам модуля.
 
-[0] [Установочная презентация](https://github.com/ShadarRim/24MEPhIAI/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20ML%201.pptx) \
-[1] [Основы Python 1](https://github.com/ShadarRim/24MEPhIAI/blob/main/00_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_1.ipynb) \
-[2] [Основы Python 2](https://github.com/ShadarRim/24MEPhIAI/blob/main/01_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_2.ipynb)
+[0] [Установочная презентация](https://github.com/ShadarRim/24MISISAI/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20ML%201.pptx) \
+[1] [Основы Python 1](https://github.com/ShadarRim/24MISISAI/blob/main/00_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_1.ipynb) \
+[2] [Основы Python 2](https://github.com/ShadarRim/24MISISAI/blob/main/01_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_2.ipynb)
 
 # Домашнее задание
 
-[0] [Контест на Python](https://contest.yandex.ru/contest/67535/enter)
+[0] [Контест на Python](https://contest.yandex.ru/contest/67569/enter)
