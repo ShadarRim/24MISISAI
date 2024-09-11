@@ -11,8 +11,20 @@
 
 [0] [Установочная презентация](https://github.com/ShadarRim/24MISISAI/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20ML%201.pptx) \
 [1] [Основы Python 1](https://github.com/ShadarRim/24MISISAI/blob/main/00_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_1.ipynb) \
-[2] [Основы Python 2](https://github.com/ShadarRim/24MISISAI/blob/main/01_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_2.ipynb)
+[2] [Основы Python 2](https://github.com/ShadarRim/24MISISAI/blob/main/01_%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_Python_2.ipynb) \
+[3] [NumPy](https://github.com/ShadarRim/24MISISAI/blob/main/02_Numpy.ipynb)
+
+# Дополнительный материалы
+[0] [Пара фишек Python, о которых не сказали ранее](https://github.com/ShadarRim/24MISISAI/blob/main/a00_%D0%9F%D0%B0%D1%80%D0%B0_%D1%84%D0%B8%D1%88%D0%B5%D0%BA.ipynb) \
+[1] [Работа с файлами](https://github.com/ShadarRim/24MISISAI/blob/main/a01_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8.ipynb)
+
+# Самостоятельная работа
+
+Небольшие работы на проверку навыков или знаний.
+
+[0] [Основы Python без условий, циклов, модулей](https://contest.yandex.ru/contest/67826/enter)
 
 # Домашнее задание
 
-[0] [Контест на Python](https://contest.yandex.ru/contest/67569/enter)
+[0] [Контест на Python](https://contest.yandex.ru/contest/67569/enter) \
+[1] [Контест на NumPy](https://contest.yandex.ru/contest/67827/enter)
