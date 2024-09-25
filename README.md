@@ -1,4 +1,4 @@
-# МИФИ ML 2024/2025
+# МИСИС ML 2024/2025
 
 Данные материалы подготовлены для годового курса машинного обучения в НИТУ МИСИС. \
 Цель курса - познакомить с инструментами для работы с машимнным обучением, нейронными сетями, а также с самими моделями, применительно к реальным задачам. 
@@ -16,15 +16,18 @@
 
 # Дополнительный материалы
 [0] [Пара фишек Python, о которых не сказали ранее](https://github.com/ShadarRim/24MISISAI/blob/main/a00_%D0%9F%D0%B0%D1%80%D0%B0_%D1%84%D0%B8%D1%88%D0%B5%D0%BA.ipynb) \
-[1] [Работа с файлами](https://github.com/ShadarRim/24MISISAI/blob/main/a01_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8.ipynb)
+[1] [Работа с файлами](https://github.com/ShadarRim/24MISISAI/blob/main/a01_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8.ipynb) \
+[2] [Math](https://github.com/ShadarRim/24MISISAI/blob/main/a02_%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C_math.ipynb)
 
 # Самостоятельная работа
 
 Небольшие работы на проверку навыков или знаний.
 
-[0] [Основы Python без условий, циклов, модулей](https://contest.yandex.ru/contest/67826/enter)
+[0] [Основы Python без условий, циклов, модулей](https://contest.yandex.ru/contest/67826/enter) \
+[1] [np и math](https://contest.yandex.ru/contest/68634/enter)
 
 # Домашнее задание
 
 [0] [Контест на Python](https://contest.yandex.ru/contest/67569/enter) \
-[1] [Контест на NumPy](https://contest.yandex.ru/contest/67827/enter)
+[1] [Контест на NumPy](https://contest.yandex.ru/contest/67827/enter) \
+[2] [Контест на Pandas](https://contest.yandex.ru/contest/68635/enter)
