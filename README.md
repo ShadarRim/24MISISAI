@@ -22,8 +22,17 @@
 [10] [Проверки и интервалы](https://github.com/ShadarRim/24MISISAI/blob/main/10_%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8.ipynb) \
 [11] [Условная вероятность](https://github.com/ShadarRim/24MISISAI/blob/main/13_%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.ipynb) \
 [12] [Наивный Баес](https://github.com/ShadarRim/24MISISAI/blob/main/11_%D0%9D%D0%B0%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B0%D0%B5%D1%81.ipynb) \
-[13] []() \
-[14] []()
+
+
+# Модуль №2. Основы машинного обучения
+
+Формы контроля: коллоквиум по итогам модуля.
+
+[13] [Градиентный спуск](https://github.com/ShadarRim/24MISISAI/blob/main/14_%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D1%83%D1%81%D0%BA.ipynb) \
+[14] [Данные для собственной регрессии](https://github.com/ShadarRim/24MISISAI/blob/main/16_salary_data.csv) \
+[15] [Шаблон для создания метода регрессии градиентным спуском](https://github.com/ShadarRim/24MISISAI/blob/main/15_LinReg_scratch.ipynb) \
+[16] [Линейная регрессия](https://github.com/ShadarRim/24MISISAI/blob/main/17_%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8_%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F_1_1.ipynb) \
+[17] [Устранение пропусков и методы разделения выборки](https://github.com/ShadarRim/24MISISAI/blob/main/18_%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8_%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F_2.ipynb)
 
 
 # Дополнительный материалы
@@ -46,8 +55,9 @@
 [0] [Контест на Python](https://contest.yandex.ru/contest/67569/enter) \
 [1] [Контест на NumPy](https://contest.yandex.ru/contest/67827/enter) \
 [2] [Контест на Pandas](https://contest.yandex.ru/contest/68635/enter) \
-[3] [Обязательное ДЗ №1. Пример решения](https://github.com/ShadarRim/24MISISAI/blob/main/12_%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%B7.ipynb)
-[4] [Передаль сеть Хопфилда на векторные вычисления]
+[3] [Обязательное ДЗ №1. Пример решения](https://github.com/ShadarRim/24MISISAI/blob/main/12_%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%B7.ipynb) \
+[4] ДЗ №2. Передаль сеть Хопфилда на векторные вычисления \
+[5] [ДЗ №3](https://www.kaggle.com/t/3178881f12204389933351e33670c500)
 
 # Нобелевская неделя
 
