@@ -32,8 +32,14 @@
 [14] [Данные для собственной регрессии](https://github.com/ShadarRim/24MISISAI/blob/main/16_salary_data.csv) \
 [15] [Шаблон для создания метода регрессии градиентным спуском](https://github.com/ShadarRim/24MISISAI/blob/main/15_LinReg_scratch.ipynb) \
 [16] [Линейная регрессия](https://github.com/ShadarRim/24MISISAI/blob/main/17_%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8_%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F_1_1.ipynb) \
-[17] [Устранение пропусков и методы разделения выборки](https://github.com/ShadarRim/24MISISAI/blob/main/18_%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8_%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F_2.ipynb)
-
+[17] [Устранение пропусков и методы разделения выборки](https://github.com/ShadarRim/24MISISAI/blob/main/18_%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8_%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F_2.ipynb) \
+[18] [Логистическая регрессия](https://github.com/ShadarRim/24MISISAI/blob/main/19_%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F.ipynb) \
+[19] [Оценка качества классификации](https://github.com/ShadarRim/24MISISAI/blob/main/20_%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0_%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8.ipynb) \
+[20] [Разбор демо-версии олимпиады "Я-профессионал"](https://github.com/ShadarRim/24MISISAI/blob/main/21_%D0%AF_%D0%BF%D1%80%D0%BE%D1%84%D0%B8_2024_(%D0%B4%D0%B5%D0%BC%D0%BE%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%D0%98%D0%98).ipynb) \
+[21] [Дерево решений](https://github.com/ShadarRim/24MISISAI/blob/main/22_%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.ipynb) \
+[22] [Случайный лес](https://github.com/ShadarRim/24MISISAI/blob/main/23_%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B5%D1%81.ipynb) \
+[23] [Сравнение леса и дерева](https://github.com/ShadarRim/24MISISAI/blob/main/24_%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BB%D0%B5%D1%81%D0%B0_%D0%B8_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0_%2B_%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2.ipynb) \
+[24] []()
 
 # Дополнительный материалы
 [0] [Пара фишек Python, о которых не сказали ранее](https://github.com/ShadarRim/24MISISAI/blob/main/a00_%D0%9F%D0%B0%D1%80%D0%B0_%D1%84%D0%B8%D1%88%D0%B5%D0%BA.ipynb) \
