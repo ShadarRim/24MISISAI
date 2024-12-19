@@ -39,7 +39,8 @@
 [21] [Дерево решений](https://github.com/ShadarRim/24MISISAI/blob/main/22_%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.ipynb) \
 [22] [Случайный лес](https://github.com/ShadarRim/24MISISAI/blob/main/23_%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B5%D1%81.ipynb) \
 [23] [Сравнение леса и дерева](https://github.com/ShadarRim/24MISISAI/blob/main/24_%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BB%D0%B5%D1%81%D0%B0_%D0%B8_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0_%2B_%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2.ipynb) \
-[24] []()
+[24] [Бустинг](https://github.com/ShadarRim/24MISISAI/blob/main/25_%D0%91%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B3.ipynb) \
+[25] [Кластеризация](https://github.com/ShadarRim/24MISISAI/blob/main/26_%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.ipynb)
 
 # Дополнительный материалы
 [0] [Пара фишек Python, о которых не сказали ранее](https://github.com/ShadarRim/24MISISAI/blob/main/a00_%D0%9F%D0%B0%D1%80%D0%B0_%D1%84%D0%B8%D1%88%D0%B5%D0%BA.ipynb) \
@@ -65,8 +66,9 @@
 [4] ДЗ №2. Передаль сеть Хопфилда на векторные вычисления \
 [5] [ДЗ №3 Регрессия](https://www.kaggle.com/t/3178881f12204389933351e33670c500) \
 [6] [ДЗ №4 Классификация](https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview) \
-[7] Написать своё дерево решений на основании шаблонов.
-[8] Написать свой случайный лес на основании шаблонов. 
+[7] Написать своё дерево решений на основании шаблонов. \
+[8] Написать свой случайный лес на основании шаблонов.  \
+[9] [ДЗ №7 Кластеризация](https://www.kaggle.com/competitions/physical-activity-clustering/overview)
 
 # Нобелевская неделя
 
