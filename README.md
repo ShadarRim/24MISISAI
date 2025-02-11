@@ -57,7 +57,7 @@
 [2] [Pandas](https://contest.yandex.ru/contest/69326/enter) \
 [3] [Визуализация](https://github.com/ShadarRim/24MISISAI/blob/main/06_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_(%D1%81%D0%B0%D0%BC_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0).ipynb)
 
-# Домашнее задание
+# Домашнее задание в первом семестре
 
 [0] [Контест на Python](https://contest.yandex.ru/contest/67569/enter) \
 [1] [Контест на NumPy](https://contest.yandex.ru/contest/67827/enter) \
@@ -68,7 +68,11 @@
 [6] [ДЗ №4 Классификация](https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview) \
 [7] Написать своё дерево решений на основании шаблонов. \
 [8] Написать свой случайный лес на основании шаблонов.  \
-[9] [ДЗ №7 Кластеризация](https://www.kaggle.com/competitions/physical-activity-clustering/overview)
+[9] [ДЗ №7 Кластеризация](https://www.kaggle.com/competitions/physical-activity-clustering/overview) 
+
+# Домашнее задание во втором семестре
+
+[0] [Контест на Torch](https://contest.yandex.ru/contest/74863/enter) \
 
 # Нобелевская неделя
 
