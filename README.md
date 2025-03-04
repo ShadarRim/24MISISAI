@@ -42,6 +42,20 @@
 [24] [Бустинг](https://github.com/ShadarRim/24MISISAI/blob/main/25_%D0%91%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B3.ipynb) \
 [25] [Кластеризация](https://github.com/ShadarRim/24MISISAI/blob/main/26_%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.ipynb)
 
+# Модуль №3. Нейронные сети
+
+[26] [Нейронные сети](https://github.com/ShadarRim/24MISISAI/blob/main/27_%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8.pptx)\
+[27] [Тензоры на Torch](https://github.com/ShadarRim/24MISISAI/blob/main/28_%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80%D1%8B_Torch.ipynb)\
+[28] [Написание НС с нуля](https://github.com/ShadarRim/24MISISAI/blob/main/29_%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8C_%D1%81_%D0%BD%D1%83%D0%BB%D1%8F.ipynb)\
+[29] [НС для решения задачи классификации](https://github.com/ShadarRim/24MISISAI/blob/main/30_%D0%9D%D0%A1_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D1%8F.ipynb)\
+[30] [НС для решения задачи регрессии](https://github.com/ShadarRim/24MISISAI/blob/main/31_%D0%9D%D0%A1_%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F.ipynb)\
+[31] [Свёрточные сети](https://github.com/ShadarRim/24MISISAI/blob/main/32_%D0%A1%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8.pptx)\
+[32] [MNIST c использованием CNN](https://github.com/ShadarRim/24MISISAI/blob/main/33_MNIST_CNN.ipynb)\
+[33] []()\
+[34] []()\
+[35] []()\
+[36] []()\
+
 # Дополнительный материалы
 [0] [Пара фишек Python, о которых не сказали ранее](https://github.com/ShadarRim/24MISISAI/blob/main/a00_%D0%9F%D0%B0%D1%80%D0%B0_%D1%84%D0%B8%D1%88%D0%B5%D0%BA.ipynb) \
 [1] [Работа с файлами](https://github.com/ShadarRim/24MISISAI/blob/main/a01_%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8.ipynb) \
@@ -73,6 +87,11 @@
 # Домашнее задание во втором семестре
 
 [0] [Контест на Torch](https://contest.yandex.ru/contest/74863/enter) \
+[1] [ДЗ №1 Регрессия классической нейронной сетью](https://www.kaggle.com/t/3178881f12204389933351e33670c500) \
+[2] [ДЗ №2 Классификация классической нейронной сетью](https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview) \
+[3] [ДЗ №3 Путём модификации LeNet добиться точности 0.95 при классификации MNIST](https://github.com/ShadarRim/MISIS_AI2_2024/blob/main/07_MNIST_CNN.ipynb) \
+[4] [ДЗ №4 Решить задачу классификации бабочек (late submission)](https://www.kaggle.com/competitions/classification-of-butterflies)\
+[5] [ДЗ №5 Набрать не менее 93% в задаче. Балл за сдачу пропорционален тому, на сколько больше набрано](https://www.kaggle.com/c/platesv2)\
 
 # Нобелевская неделя
 
